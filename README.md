@@ -26,8 +26,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 
 ### Anamoly Detection
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Implemented Bayesian Change-Point Detection in MATLAB to detect abrupt changes in the time-series data
+- Extended for the case of detecting a change in an AR (Auto Regressive) process by employing an RLS (Recursive Least Squares) estimator in algorithm
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
