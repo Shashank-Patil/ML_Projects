@@ -21,11 +21,9 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 
 ### Propensity Prediction 
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Developed a supervised ML model to predict the customer propensity to apply for the new line of credit card
+- Achieved an AUC score of 0.752 (3rd out of 15 teams) using XGBoost; benchmarked it against Random Forest 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Anamoly Detection
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
