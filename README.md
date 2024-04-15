@@ -28,5 +28,5 @@
 
 ### Anamoly Detection
 - Implemented Bayesian Change-Point Detection in MATLAB to detect abrupt changes in the time-series data
-- Extended for the case of detecting a change in an AR (Auto Regressive) process by employing an RLS (Recursive Least Squares) estimator in algorithm
+- Extended for the case of detecting a change in an AR (Auto Regressive) process by employing an RLS (Recursive Least Squares) estimator algorithm
 
