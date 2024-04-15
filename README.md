@@ -1,4 +1,4 @@
-## Projects
+## ML Projects
 ### Image Translation (SAR to EO)
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
