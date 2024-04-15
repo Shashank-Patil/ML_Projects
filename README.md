@@ -15,11 +15,10 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 - Improved mAP & nDCG score in the retrieval process by 30% compared to the baseline Vector Space Model 
 
 ### Song Recommender System
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Built ML model to predict the user rating for a song given song ID, user ID, genre, etc. with 1.3M data points
+- Performed data pre-processing; implemented an ensemble of collaborative filtering and LightGBM regressor 
+- Trained the model on 700k data points and obtained rmse score of 0.738 on test data (5th among 45 teams)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Propensity Prediction 
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
