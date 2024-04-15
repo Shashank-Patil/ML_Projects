@@ -3,12 +3,12 @@
 #### Technical Skills: Python, SQL, MATLAB
 
 ### Image Translation (SAR to EO) 
-[Report](image_translation/Image_Translation_Report.pdf)
+![Report](image_translation/Image_Translation_Report.pdf) ![Code](image_translation/Image_Translation_Final.ipynb)
 - Used Pix2Pix GAN framework to translate images from SAR (Synthetic Aperture Radar) to EO (Electro-Optical)
 - Utilized the Spacenet 6 dataset (publicly available) containing satellite imagery (pair of 10000 SAR and Optical)
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 ### Information Retrieval 
 - Implemented NLP techniques on Cranfield dataset to retrieve the top 10 relevant documents given a query
