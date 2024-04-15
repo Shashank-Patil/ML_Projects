@@ -14,8 +14,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 - Used tfidf vectorization based on Vector Space Model & 2 variants of Latent Semantic Indexing to compute similarity between a query & document
 - Improved mAP & nDCG score in the retrieval process by 30% compared to the baseline Vector Space Model 
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ### Song Recommender System
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
